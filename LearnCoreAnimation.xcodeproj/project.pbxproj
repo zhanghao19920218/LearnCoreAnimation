@@ -14,6 +14,7 @@
 		9362748625BE58CC00F688D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9362748525BE58CC00F688D0 /* Assets.xcassets */; };
 		9362748925BE58CC00F688D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9362748725BE58CC00F688D0 /* LaunchScreen.storyboard */; };
 		9362749225BE58EC00F688D0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9362749125BE58EC00F688D0 /* README.md */; };
+		9362749525BE5AF200F688D0 /* 42ef6760eece41e1886191094356ec3b_tplv-k3u1fbpfcp-watermark.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9362749425BE5AF200F688D0 /* 42ef6760eece41e1886191094356ec3b_tplv-k3u1fbpfcp-watermark.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9362748825BE58CC00F688D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9362748A25BE58CC00F688D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9362749125BE58EC00F688D0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9362749425BE5AF200F688D0 /* 42ef6760eece41e1886191094356ec3b_tplv-k3u1fbpfcp-watermark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "42ef6760eece41e1886191094356ec3b_tplv-k3u1fbpfcp-watermark.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		9362747025BE58CB00F688D0 = {
 			isa = PBXGroup;
 			children = (
+				9362749425BE5AF200F688D0 /* 42ef6760eece41e1886191094356ec3b_tplv-k3u1fbpfcp-watermark.jpeg */,
 				9362749125BE58EC00F688D0 /* README.md */,
 				9362747B25BE58CB00F688D0 /* LearnCoreAnimation */,
 				9362747A25BE58CB00F688D0 /* Products */,
@@ -129,6 +132,7 @@
 			files = (
 				9362748925BE58CC00F688D0 /* LaunchScreen.storyboard in Resources */,
 				9362748625BE58CC00F688D0 /* Assets.xcassets in Resources */,
+				9362749525BE5AF200F688D0 /* 42ef6760eece41e1886191094356ec3b_tplv-k3u1fbpfcp-watermark.jpeg in Resources */,
 				9362749225BE58EC00F688D0 /* README.md in Resources */,
 				9362748425BE58CB00F688D0 /* Main.storyboard in Resources */,
 			);
